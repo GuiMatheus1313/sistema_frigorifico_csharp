@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -39,8 +40,28 @@ namespace sistema_Frigorifico_C_
                     
             }
 
-            Console.WriteLine("Saiu do loop!");
-            //while(true)
+            Console.WriteLine("Preço da arroba inserido! Insira uma das opções abaixo");
+            Console.WriteLine("");
+
+            while (true)
+            {
+                Console.WriteLine("1. Inserir os dados de um animal");
+                Console.WriteLine("2. Finalizar o lançamento");
+                Console.WriteLine("3. Reset");
+                Console.WriteLine("4. Sair");
+                Console.WriteLine("");
+                Console.Write("Escolha uma opcao: ");
+                /*
+                switch (escolha)
+                {
+                    case 4: 
+                        Console.WriteLine("")
+                }
+                */
+
+
+
+            }
             Console.ReadLine();
               
         }
