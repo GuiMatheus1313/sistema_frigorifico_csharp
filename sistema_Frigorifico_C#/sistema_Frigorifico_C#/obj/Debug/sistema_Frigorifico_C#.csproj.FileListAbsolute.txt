@@ -1,0 +1,7 @@
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\obj\Debug\sistema_Frigorifico_C#.csproj.AssemblyReference.cache
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\obj\Debug\sistema_Frigorifico_C#.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\bin\Debug\sistema_Frigorifico_C#.exe.config
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\bin\Debug\sistema_Frigorifico_C#.exe
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\bin\Debug\sistema_Frigorifico_C#.pdb
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\obj\Debug\sistema_Frigorifico_C#.exe
+C:\Users\Guilherme (SSD)\Desktop\VISUAL STUDIO PROJECTS\C#\sistema_frigorifico_csharp\sistema_Frigorifico_C#\sistema_Frigorifico_C#\obj\Debug\sistema_Frigorifico_C#.pdb
