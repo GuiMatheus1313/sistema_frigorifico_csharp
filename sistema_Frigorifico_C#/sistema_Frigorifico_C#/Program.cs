@@ -37,7 +37,6 @@ namespace sistema_Frigorifico_C_
                 if (decisao == 0)
                     break;
                     
-                //if (GetType(escolha))
             }
 
             Console.WriteLine("Saiu do loop!");

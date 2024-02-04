@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sistema_Frigorifico_C_
 {
-    public static class Global_variable
+    public static class Peso_variable
     {
         //Variáveis globais, na qual vão ter seus valores modificados em diferentes escopos
         static double peso { get; set;}
@@ -15,7 +15,6 @@ namespace sistema_Frigorifico_C_
         static double peso_Velho { get; set;}
         static double peso_Novo { get; set; }
         static double peso_Total { get; set; }
-        static double preco_arroba { get; set; }
 
 
 
