@@ -64,7 +64,29 @@ namespace sistema_Frigorifico_C_
                     
                 }
 
-                
+                //Fechamento do programa
+                if (escolha == 4)
+                    break;
+
+                switch(escolha)
+                {
+                    case 3:
+                        Console.WriteLine("Fazendo limpeza!");
+                        break;
+
+                    case 2:
+                        Console.WriteLine("Mostrar Relatório");
+                        break;
+                    case 1:
+                        Console.WriteLine("Cadastro animal");
+                        break;
+                    default:
+                        Console.WriteLine("Escolha incorreta!");
+                        Console.WriteLine("");
+                        break;
+
+                }
+
                 /*
                 switch (escolha)
                 {
