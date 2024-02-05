@@ -87,19 +87,16 @@ namespace sistema_Frigorifico_C_
 
                 }
 
-                /*
-                switch (escolha)
-                {
-                    case 4: 
-                        Console.WriteLine("")
-                }
-                */
-
-
-
+                
             }
             Console.ReadLine();
               
+        }
+
+        
+        public void mostrarRelatorio(double preco_arrobaarg)
+        {
+
         }
     }
 }
